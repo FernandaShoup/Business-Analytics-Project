@@ -19,9 +19,9 @@ Google Sheets
 - Improve business understanding of customer behavior using spreadsheet-based tools
 
 ## Screenshots
--
--
--
+- BI1 - Funnel showing how many customers move from on step to the next
+- BI2 - Created Cohorts based on date of first purchase
+- BI3 - Seperated users by month of first purchase
 
 ## Status
 Completed – February 2025
